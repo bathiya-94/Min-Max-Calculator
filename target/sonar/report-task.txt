@@ -1,0 +1,6 @@
+projectKey=assignment1:assignment1
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/assignment1:assignment1
+ceTaskId=AW3DfCjX4qLMj-mkMc0f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW3DfCjX4qLMj-mkMc0f
